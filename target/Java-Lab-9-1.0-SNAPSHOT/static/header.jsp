@@ -17,7 +17,7 @@
 </div>
 <%-- Панель отображается если пользователь аутентифицирован --%>
 <c:if test="${sessionScope.authUser!=null}">
-	<div style="background-color: #ccc; padding: 5px">
+	<div style="background-color: #FFFFF0; padding: 5px">
 		<div style="float: right; margin-right: 5px">
 			[ <a href="<c:url value="/doLogout.jsp" />">Exit</a> ]
 		</div>

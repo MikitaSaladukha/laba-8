@@ -9,8 +9,5 @@
         <module name="Java-Lab-9" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Java-Lab-9" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
